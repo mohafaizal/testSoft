@@ -1,3 +1,4 @@
 These are the instructions.
 
 Step 1: do something
+Step 2: did changes after merge.
