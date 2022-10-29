@@ -5,7 +5,11 @@ Git repository readme file.
 
 Change 2
 
-feature red feature only.
+Green feature change
 
-Changing master branch
+
+
+changes for the remote repo1 
+
+---- added from comp2
 
