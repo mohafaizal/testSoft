@@ -1,0 +1,5 @@
+These are the instructions.
+
+Step 1: do something
+Step 2: did changes after merge.
+Step 3: Who will read this
