@@ -1,0 +1,5 @@
+class newFile
+
+udaote 1
+
+end
